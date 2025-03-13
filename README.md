@@ -42,11 +42,11 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 - [Liu2024] ARC: A Generalist Graph Anomaly Detector with In-Context Learning in *NeurIPS*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.16771)[\[code\]](https://github.com/yixinliu233/ARC)
-- 
+  
 - [Lin2024] UniGAD: Unifying Multi-level Graph Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf?id=sRILMnkkQd)[\[code\]](https://github.com/lllyyq1121/UniGAD)
-- 
+  
 - [Niu2024]  Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.14886)[\[code\]](https://github.com/mala-lab/UNPrompt)
-- 
+  
 - [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
 

@@ -13,7 +13,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 - [Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
 
-
+- [Li2024] Anomaly Detection of Tabular Data Using LLMs  in *IJCAI-W*, 2024. [\[paper\]](https://arxiv.org/abs/2406.16308)[\[code\]]()
 
 
 ## Time series
@@ -49,7 +49,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 ## Text
-
+- [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()
 
 ## Log
 

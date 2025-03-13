@@ -15,7 +15,6 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 
-https://sites.google.com/site/gspangsite/team
 
 ## Time series
 

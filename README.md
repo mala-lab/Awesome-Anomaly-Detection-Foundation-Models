@@ -15,7 +15,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 
-
+https://sites.google.com/site/gspangsite/team
 
 ## Time series
 
@@ -25,6 +25,12 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 ## Image
+
+- [Zhou2024]  AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2310.18961)[\[code\]](https://github.com/zqhang/AnomalyCLIP)
+
+- [Zhu2024]  Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts in *CVPR*, 2024. [\[paper\]](https://arxiv.org/pdf/2403.06495)[\[code\]](https://github.com/mala-lab/InCTRL)
+
+
 
 
 
@@ -47,3 +53,5 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 ## Log
+
+

@@ -11,7 +11,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Tabular data
 
-[Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]](https://github.com/decisionintelligence/DADA)[\[code\]]
+[Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
 
 
 

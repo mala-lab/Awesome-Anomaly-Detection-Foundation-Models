@@ -1,7 +1,5 @@
 # Awesome-Anomaly-Detection-with-Foundation-Models
 
-# Awesome-Deep-Graph-Anomaly-Detection
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models) 
 ![GitHub stars](https://img.shields.io/github/stars/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models?color=yellow&label=Stars)

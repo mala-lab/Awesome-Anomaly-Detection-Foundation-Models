@@ -11,7 +11,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Tabular data
 
-[Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
+- [Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
 
 
 
@@ -19,7 +19,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Time series
 
-[Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
+- [Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
 
 
 

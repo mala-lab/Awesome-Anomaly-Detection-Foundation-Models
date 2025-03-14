@@ -18,7 +18,9 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Time series
 
-- [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA) 
+- [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA)
+
+- [Liu2024] Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection in  *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.15370)[\[code\]]()
 
 - [Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
 
@@ -27,6 +29,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 - [Xu2025]  Can Multimodal LLMs Perform Time Series Anomaly Detection?  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2502.17812)[\[code\]](https://github.com/mllm-ts/VisualTimeAnomaly)
 
 - [Chen2025] Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2501.05675)[\[code\]]()
+
 
 
 ## Image
@@ -50,9 +53,18 @@ A collection of papers on foundation model for anomaly detection（tabular data/
   
 - [Ye2024] VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models  in *Arxiv*, 2024.   [\[paper\]](https://arxiv.org/abs/2412.01095)[\[code\]]()
 
-- [Zanella2024] Harnessing Large Language Models for Training-free Video Anomaly Det  in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)[\[code\]](https://github.com/lucazanella/lavad)
+- [Yang2024] Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models in *Arxiv*, 2024.   [\[paper\]](https://arxiv.org/pdf/2407.10299v1)[\[code\]](https://github.com/Yuchen413/AnomalyRuler)
+
+- [Zhang2024] Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2406.12235)[\[code\]](https://holmesvad.github.io/)
+
+- [Zanella2024] Harnessing Large Language Models for Training-free Video Anomaly Detection  in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)[\[code\]](https://github.com/lucazanella/lavad)
+
+- [Yang2024] Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection  in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2404.08531)[\[code\]]()
 
 - [Cho2024] Towards Multi-Domain Learning for Generalizable Video Anomaly Detection  in *NeurIPS*, 2024.   [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/59eb2d8ce0e4830f80780f7f78c67dec-Abstract-Conference.html)[\[code\]]()
+
+- [Lv2024] Video Anomaly Detection and Explanation via Large Language Models in *ICCV*, 2024.    [\[paper\]](https://arxiv.org/pdf/2401.05702v1)[\[code\]]()
+
 
 
 ## Graph

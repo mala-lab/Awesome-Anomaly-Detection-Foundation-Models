@@ -42,6 +42,8 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 - [Zhu2024]  Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts in *CVPR*, 2024. [\[paper\]](https://arxiv.org/pdf/2403.06495)[\[code\]](https://github.com/mala-lab/InCTRL)
 
+- [Li2024]  PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection in *CVPR*, 2024. [\[paper\]](https://arxiv.org/pdf/2404.05231)[\[code\]](https://github.com/FuNz-0/PromptAD)
+
 - [Zhu2024]  Do LLMs Understand Visual Anomalies? Uncovering LLM's Capabilities in Zero-shot Anomaly Detection  in *MM*, 2024.  [\[paper\]](https://arxiv.org/abs/2404.09654)[\[code\]]()
 
 - [Zhou2024] PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection  in *NeurIPS*, 2024.   [\[paper\]](https://arxiv.org/abs/2410.00320)[\[code\]](https://github.com/zqhang/PointAD)

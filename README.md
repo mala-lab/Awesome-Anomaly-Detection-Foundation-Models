@@ -42,8 +42,9 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Video
 
+- [Ye2024] VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models  in *Arxiv*, 2024.   [\[paper\]](https://arxiv.org/abs/2412.01095)[\[code\]]()
 
-
+- [Zanella2024] Harnessing Large Language Models for Training-free Video Anomaly Det  in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)[\[code\]](https://github.com/lucazanella/lavad)
 
 ## Graph
 

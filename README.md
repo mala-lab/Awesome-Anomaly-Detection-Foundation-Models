@@ -79,5 +79,5 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 - [Guan2025]  LogLLM: Log-based Anomaly Detection Using Large Language Models  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2411.08561)[\[code\]]()
 
 - [Lim2025] Adapting Large Language Models for Parameter-Efficient Log Anomaly Detection in *PAKDD*, 2025.  [\[paper\]]()[\[code\]](https://github.com/mala-lab/LogADReft)
-
-
+ 
+- [Song2025] Confront Insider Threat: Precise Anomaly Detection in Behavior Logs Based on LLM Fine-Tuning in *Coling*, 2025.    [\[paper\]](https://aclanthology.org/2025.coling-main.574.pdf)[\[code\]]()

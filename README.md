@@ -40,6 +40,8 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 - [Zhu2024]  Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts in *CVPR*, 2024. [\[paper\]](https://arxiv.org/pdf/2403.06495)[\[code\]](https://github.com/mala-lab/InCTRL)
 
+- [Zhu2024]  Do LLMs Understand Visual Anomalies? Uncovering LLM's Capabilities in Zero-shot Anomaly Detection  in *MM*, 2024.  [\[paper\]](https://arxiv.org/abs/2404.09654)[\[code\]]()
+
 - [Zhou2024] PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection  in *NeurIPS*, 2024.   [\[paper\]](https://arxiv.org/abs/2410.00320)[\[code\]](https://github.com/zqhang/PointAD)
 
 - [Li2024]  One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2502.01201)[\[code\]]()
@@ -85,6 +87,8 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 ## Log
+
+- [Qi2023] LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection in *Arixv*, 2024. [\[paper\]](https://arxiv.org/abs/2309.01189)[\[code\]]()
 
 - [Almodovar2024] LogFiT: Log Anomaly Detection Using Fine-Tuned Language Models in *TKDE*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/document/10414427/)[\[code\]]()
 

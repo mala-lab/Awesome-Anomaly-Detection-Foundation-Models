@@ -26,6 +26,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 - [Xu2025]  Can Multimodal LLMs Perform Time Series Anomaly Detection?  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2502.17812)[\[code\]](https://github.com/mllm-ts/VisualTimeAnomaly)
 
+- [Chen2025] Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2501.05675)[\[code\]]()
 
 
 ## Image

@@ -11,9 +11,9 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Tabular data
 
-- [Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
-
 - [Li2024] Anomaly Detection of Tabular Data Using LLMs  in *IJCAI-W*, 2024. [\[paper\]](https://arxiv.org/abs/2406.16308)[\[code\]]()
+  
+- [Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
 
 
 ## Time series
@@ -47,7 +47,6 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 - [Zanella2024] Harnessing Large Language Models for Training-free Video Anomaly Det  in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)[\[code\]](https://github.com/lucazanella/lavad)
 
 ## Graph
-
 
 - [Liu2024] ARC: A Generalist Graph Anomaly Detector with In-Context Learning in *NeurIPS*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.16771)[\[code\]](https://github.com/yixinliu233/ARC)
   

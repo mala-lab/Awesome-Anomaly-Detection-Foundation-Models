@@ -74,6 +74,10 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Log
 
+- [Almodovar2024] LogFiT: Log Anomaly Detection Using Fine-Tuned Language Models in *TKDE*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/document/10414427/)[\[code\]]()
+
+- [Guan2025]  LogLLM: Log-based Anomaly Detection Using Large Language Models  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2411.08561)[\[code\]]()
+
 - [Lim2025] Adapting Large Language Models for Parameter-Efficient Log Anomaly Detection in *PAKDD*, 2025.  [\[paper\]]()[\[code\]](https://github.com/mala-lab/LogADReft)
 
 

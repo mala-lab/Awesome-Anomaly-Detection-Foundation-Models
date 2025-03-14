@@ -37,7 +37,8 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 - [Zhu2024]  Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts in *CVPR*, 2024. [\[paper\]](https://arxiv.org/pdf/2403.06495)[\[code\]](https://github.com/mala-lab/InCTRL)
 
 - [Li2024]  One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2502.01201)[\[code\]]()
- 
+
+- [Zhu2025] Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2410.10289)[\[code\]](https://github.com/mala-lab/FAPrompt)
 
 
 ## Video

@@ -20,7 +20,7 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 - [Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
 
-- [Zhou2025]  Can LLMs Understand Time Series Anomalies?  in *ICLR*, 2025. [\[paper\]]https://arxiv.org/abs/2410.05440)[\[code\]](https://github.com/rose-stl-lab/anomllm)
+- [Zhou2025]  Can LLMs Understand Time Series Anomalies?  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.05440)[\[code\]](https://github.com/rose-stl-lab/anomllm)
 
 - [Xu2025]  Can Multimodal LLMs Perform Time Series Anomaly Detection?  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2502.17812)[\[code\]](https://github.com/mllm-ts/VisualTimeAnomaly)
 

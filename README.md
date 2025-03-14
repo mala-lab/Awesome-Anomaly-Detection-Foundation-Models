@@ -18,6 +18,8 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Time series
 
+- [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA) 
+
 - [Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
 
 - [Zhou2025]  Can LLMs Understand Time Series Anomalies?  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.05440)[\[code\]](https://github.com/rose-stl-lab/anomllm)
@@ -27,6 +29,8 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 ## Image
+
+- [Jeong2023] WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation in *CVPR*, 2023. [\[paper\]](https://arxiv.org/abs/2303.14814)[\[code\]]()
 
 - [Zhou2024]  AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2310.18961)[\[code\]](https://github.com/zqhang/AnomalyCLIP)
 
@@ -55,7 +59,9 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 
 ## Text
+
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()
+
 
 ## Log
 

@@ -69,4 +69,6 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 
 ## Log
 
+- [Lim2025] Adapting Large Language Models for Parameter-Efficient Log Anomaly Detection in *PAKDD*, 2025.  [\[paper\]]()[\[code\]](https://github.com/mala-lab/LogADReft)
+
 

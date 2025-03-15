@@ -36,10 +36,13 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 ## Image
 
+
 - [Jeong2023] WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation in *CVPR*, 2023. [\[paper\]](https://arxiv.org/abs/2303.14814)[\[code\]]()
 
 - [Chen2024] CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2311.00453)[\[code\]]()
 
+- [Gu2024] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models in *AAAI*, 2024. [\[paper\]](https://arxiv.org/abs/2308.15366)[\[code\]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)
+  
 - [Zhou2024]  AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection in *ICLR*, 2024. [\[paper\]](https://arxiv.org/abs/2310.18961)[\[code\]](https://github.com/zqhang/AnomalyCLIP)
 
 - [Zhu2024]  Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts in *CVPR*, 2024. [\[paper\]](https://arxiv.org/pdf/2403.06495)[\[code\]](https://github.com/mala-lab/InCTRL)

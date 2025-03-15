@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)](https://badges.pufler.dev/visits/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)
 
 
-A collection of papers on foundation model for anomaly detection（tabular data/time series/image/video/graph/text/log）, and published algorithms and datasets.
+A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with foundation model.
 
 
 ## Tabular data
@@ -21,6 +21,8 @@ A collection of papers on foundation model for anomaly detection（tabular data/
 - [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA)
 
 - [Liu2024] Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection in  *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.15370)[\[code\]]()
+
+- [Alnegheimish2024] Large language models can be zero-shot anomaly detectors for time series? in  *DSAA*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.14755)[\[code\]]()
 
 - [Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
 

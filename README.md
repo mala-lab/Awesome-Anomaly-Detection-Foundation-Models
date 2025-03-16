@@ -1,4 +1,4 @@
-# Awesome-Anomaly-Detection-with-Foundation-Models
+# Awesome-Anomaly-Detection-with-Foundation-Models (LLM/VLM/GFM)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 

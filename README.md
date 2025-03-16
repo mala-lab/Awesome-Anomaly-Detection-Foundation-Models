@@ -68,6 +68,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Zhang2024] Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2406.12235)[\[code\]](https://holmesvad.github.io/)
 
+- [Wu2024] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection   in *AAAI*, 2024.  [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)
+
 - [Zanella2024] Harnessing Large Language Models for Training-free Video Anomaly Detection  in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)[\[code\]](https://github.com/lucazanella/lavad)
 
 - [Yang2024] Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection  in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2404.08531)[\[code\]]()

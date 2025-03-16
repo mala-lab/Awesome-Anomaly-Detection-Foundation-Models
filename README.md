@@ -51,8 +51,6 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Zhu2024]  Do LLMs Understand Visual Anomalies? Uncovering LLM's Capabilities in Zero-shot Anomaly Detection  in *MM*, 2024.  [\[paper\]](https://arxiv.org/abs/2404.09654)[\[code\]]()
 
-- [Zhou2024] PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection  in *NeurIPS*, 2024.   [\[paper\]](https://arxiv.org/abs/2410.00320)[\[code\]](https://github.com/zqhang/PointAD)
-
 - [Li2024]  One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2502.01201)[\[code\]]()
 
 - [Zhu2025] Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2410.10289)[\[code\]](https://github.com/mala-lab/FAPrompt)

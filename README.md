@@ -76,6 +76,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Lv2024] Video Anomaly Detection and Explanation via Large Language Models in *ICCV*, 2024.    [\[paper\]](https://arxiv.org/pdf/2401.05702v1)[\[code\]]()
 
+- [Wu2024] Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts  in *ACM MM*, 2024.  [\[paper\]](https://arxiv.org/abs/2408.05905)[\[code\]]()
+
 
 
 ## Graph

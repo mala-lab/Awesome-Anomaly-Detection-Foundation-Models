@@ -96,7 +96,9 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()
 
+- [Yang2025] Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2502.12904)[\[code\]](https://github.com/kaustpradalab/Fraud-R1)
 
+  
 ## Log
 
 - [Qi2023] LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection in *Arixv*, 2024. [\[paper\]](https://arxiv.org/abs/2309.01189)[\[code\]]()

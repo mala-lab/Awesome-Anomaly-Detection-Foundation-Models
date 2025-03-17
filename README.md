@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)](https://badges.pufler.dev/visits/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)
 
 
-A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with foundation model.
+A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with foundation models.
 
 
 ## Tabular data

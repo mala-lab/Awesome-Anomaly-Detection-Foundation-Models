@@ -60,7 +60,10 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 - [Qu2025] Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.10080)[\[code\]]()
 
 - [Ma2025] AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.06661)[\[code\]](https://github.com/Mwxinnn/AA-CLIP)
+  
+- [Zhang2025] Towards Training-free Anomaly Detection with Vision and Language Foundation Models in *CVPR*, 2025. [\[paper\]]()[\[code\]]()
 
+- [Gu2025] UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.03342)[\[code\]](https://github.com/FantasticGNU/UniVAD)
 
 ## Video
 
@@ -86,9 +89,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Ye2025] VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.01095)[\[code\]](https://vera-framework.github.io/)
 
-- [Zhang2025] Towards Training-free Anomaly Detection with Vision and Language Foundation Models in *CVPR*, 2025. [\[paper\]]()[\[code\]]()
 
-- [Gu2025] UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.03342)[\[code\]](https://github.com/FantasticGNU/UniVAD)
 
 ## Graph
 

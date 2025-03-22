@@ -15,6 +15,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
   
 - [Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
 
+- [Chen2025]  PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection   in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2412.12154)[\[code\]](https://github.com/yzhao062/pyod)
 
 ## Time series
 

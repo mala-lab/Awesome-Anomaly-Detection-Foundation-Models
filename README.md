@@ -125,3 +125,14 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Yang2025]  LogLLaMA: Transformer-based log anomaly detection with LLaMA in *Arxiv*, 2025.    [\[paper\]](https://arxiv.org/abs/2503.14849)[\[code\]]()
 
+
+
+## Related Survey
+
+- [Ren2025] Foundation Models for Anomaly Detection: Vision and Challenges in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.06911)[\[code\]]()
+
+- [Su2025] Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review   in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2402.10350)[\[code\]]()
+
+- [Xu2025] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey  in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2409.01980)[\[code\]]()
+
+

@@ -68,6 +68,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Gu2025] UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.03342)[\[code\]](https://github.com/FantasticGNU/UniVAD)
 
+- [Yun2025] Language-Assisted Feature Transformation for Anomaly Detection  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2503.01184)[\[code\]]()
+
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)

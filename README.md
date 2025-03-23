@@ -33,7 +33,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Chen2025] Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2501.05675)[\[code\]]()
 
-
+- [Wu2025] Uncertainty-Aware Fine-Tuning for Time Series Anomaly Detection in  *Openreview*, 2025. [\[paper\]](https://openreview.net/pdf?id=W1wlE4bPqP)[\[code\]]()
 
 ## Image
 

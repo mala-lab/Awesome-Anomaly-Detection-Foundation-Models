@@ -54,6 +54,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Li2024]  One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2502.01201)[\[code\]]()
 
+- [Zuo2024] CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation  [\[paper\]](https://arxiv.org/abs/2406.18941)[\[code\]]()
+
 - [Zhu2025] Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2410.10289)[\[code\]](https://github.com/mala-lab/FAPrompt)
 
 - [Tao2025]  Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection in  *AAAI*, 2025. [\[paper\]](https://arxiv.org/abs/2412.17619)[\[code\]](https://github.com/CVL-hub/KAG-prompt)

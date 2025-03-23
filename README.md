@@ -70,6 +70,11 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Yun2025] Language-Assisted Feature Transformation for Anomaly Detection  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2503.01184)[\[code\]]()
 
+- [Lv2025] One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning  in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=Zzs3JwknAY)[\[code\]](https://github.com/Vanssssry/One-For-All-Few-Shot-Anomaly-Detection)
+
+- [Jiang2025] MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.09453)[\[code\]](https://github.com/jam-cc/MMAD)
+
+
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)

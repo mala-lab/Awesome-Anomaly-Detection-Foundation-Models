@@ -37,7 +37,6 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 ## Image
 
-
 - [Jeong2023] WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation in *CVPR*, 2023. [\[paper\]](https://arxiv.org/abs/2303.14814)[\[code\]]()
 
 - [Chen2024] CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2311.00453)[\[code\]]()

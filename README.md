@@ -56,6 +56,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Zhu2025] Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2410.10289)[\[code\]](https://github.com/mala-lab/FAPrompt)
 
+- [Tao2025]  Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection in  *AAAI*, 2025. [\[paper\]](https://arxiv.org/abs/2412.17619)[\[code\]](https://github.com/CVL-hub/KAG-prompt)
+
 - [Xu2025] Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.07601)[\[code\]](https://xujiacong.github.io/Anomaly-OV/)
 
 - [Qu2025] Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.10080)[\[code\]]()

@@ -75,6 +75,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Jiang2025] MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.09453)[\[code\]](https://github.com/jam-cc/MMAD)
 
+- [Guo2025] Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection  in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.14325)[\[code\]](https://github.com/guojiajeremy/Dinomaly)
 
 ## Video
 

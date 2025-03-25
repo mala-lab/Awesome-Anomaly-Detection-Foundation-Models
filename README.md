@@ -49,6 +49,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Li2024]  PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection in *CVPR*, 2024. [\[paper\]](https://arxiv.org/pdf/2404.05231)[\[code\]](https://github.com/FuNz-0/PromptAD)
 
+- [Xu2024] Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2403.11083)[\[code\]](https://github.com/Xiaohao-Xu/Customizable-VLM)
+
 - [Zhu2024]  Do LLMs Understand Visual Anomalies? Uncovering LLM's Capabilities in Zero-shot Anomaly Detection  in *MM*, 2024.  [\[paper\]](https://arxiv.org/abs/2404.09654)[\[code\]]()
 
 - [Li2024]  One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2502.01201)[\[code\]]()

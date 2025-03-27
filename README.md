@@ -79,6 +79,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Guo2025] Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection  in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.14325)[\[code\]](https://github.com/guojiajeremy/Dinomaly)
 
+- [Li2025] One-for-More: Continual Diffusion Model for Anomaly DetectionOne-for-More: Continual Diffusion Model for Anomaly Detection   in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2502.19848)[\[code\]](https://github.com/FuNz-0/One-for-More)
+
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)

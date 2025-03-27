@@ -85,8 +85,6 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)
   
-- [Ye2024] VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models  in *Arxiv*, 2024.   [\[paper\]](https://arxiv.org/abs/2412.01095)[\[code\]]()
-
 - [Yang2024] Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models in *Arxiv*, 2024.   [\[paper\]](https://arxiv.org/pdf/2407.10299v1)[\[code\]](https://github.com/Yuchen413/AnomalyRuler)
 
 - [Zhang2024] Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2406.12235)[\[code\]](https://holmesvad.github.io/)

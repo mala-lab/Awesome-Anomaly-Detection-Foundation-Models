@@ -138,7 +138,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Yang2025]  LogLLaMA: Transformer-based log anomaly detection with LLaMA in *Arxiv*, 2025.    [\[paper\]](https://arxiv.org/abs/2503.14849)[\[code\]]()
 
-
+- [Liu2024] Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies in *Arxiv* [\[paper\]](https://arxiv.org/abs/2308.07610)[\[code\]](https://github.com/lunyiliu/LogPrompt)
 
 ## Related Survey
 

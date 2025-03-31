@@ -142,6 +142,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Liu2024] Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies in *ICPC* [\[paper\]](https://arxiv.org/abs/2308.07610)[\[code\]](https://github.com/lunyiliu/LogPrompt)
 
+- [Xu2025] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=M4qNIzQYpd)[\[code\]](https://github.com/openrca/orca)
+
 ## Related Survey
 
 - [Ren2025] Foundation Models for Anomaly Detection: Vision and Challenges in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.06911)[\[code\]]()

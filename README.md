@@ -81,6 +81,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Li2025] One-for-More: Continual Diffusion Model for Anomaly DetectionOne-for-More: Continual Diffusion Model for Anomaly Detection   in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2502.19848)[\[code\]](https://github.com/FuNz-0/One-for-More)
 
+-  [Zeng2025]  Towards Efficient and General-Purpose Few-Shot Misclassification Detection for Vision-Language Models in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.20492)[\[code\]]()
+
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)

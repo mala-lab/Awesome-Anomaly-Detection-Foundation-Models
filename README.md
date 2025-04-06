@@ -125,7 +125,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 
 
-## Text
+## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()
 

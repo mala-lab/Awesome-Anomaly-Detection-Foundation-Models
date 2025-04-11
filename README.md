@@ -88,6 +88,10 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Sun2025] Anomaly Anything: Promptable Unseen Visual Anomaly Generation in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2406.01078)[\[code\]]()
 
+- [Sadikaj2025] MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2504.06740)[\[code\]]()
+
+- [Zhao2025] AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection  in *CVPRW*, 2025. [\[paper\]](https://arxiv.org/abs/2504.04340)[\[code\]]()
+
   
 ## Video
 

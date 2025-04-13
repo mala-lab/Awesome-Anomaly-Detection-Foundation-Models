@@ -37,6 +37,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Yang2025] Refining Time Series Anomaly Detectors using Large Language Models  in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.21833)[\[code\]]()
 
+- [Wang2025] Pre-training Enhanced Transformer for multivariate time series anomaly detection in  *Information Fusion*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S1566253525002441)[\[code\]]()
+
 ## Image
 
 - [Jeong2023] WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation in *CVPR*, 2023. [\[paper\]](https://arxiv.org/abs/2303.14814)[\[code\]]()

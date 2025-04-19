@@ -117,7 +117,12 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Ye2025] VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2412.01095)[\[code\]](https://vera-framework.github.io/)
 
-- [Wu2025] AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/pdf/2504.04495)[\[code\]]()
+- [Wu2025] AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.04495)[\[code\]]()
+
+- [Yang2025] AssistPDA: An Online Video Surveillance Assistant for Video Anomaly Prediction in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2503.21904)[\[code\]]()
+
+- [Ding2025] SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.10320)[\[code\]]()
+ 
 
 ## Graph
 

@@ -1,4 +1,4 @@
-# Awesome-Anomaly-Detection-with-LLM/VLM
+# Awesome-Anomaly-Detection-with-Large-Language-Model/Visual-Language-Model
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 

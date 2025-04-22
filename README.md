@@ -95,6 +95,9 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 - [Zhao2025] AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection  in *CVPRW*, 2025. [\[paper\]](https://arxiv.org/abs/2504.04340)[\[code\]]()
 
 - [Kim2025] GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2504.14919)[\[code\]]()
+
+- [Chao2025] AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2504.11914)[\[code\]]()
+
   
 ## Video
 
@@ -125,6 +128,8 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 - [Ding2025] SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.10320)[\[code\]]()
  
 - [Shao2025] EventVAD: Training-Free Event-Aware Video Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.13092)[\[code\]]()
+
+
 
 ## Graph
 

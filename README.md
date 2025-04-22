@@ -123,6 +123,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Ding2025] SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.10320)[\[code\]]()
  
+- [Shao2025] EventVAD: Training-Free Event-Aware Video Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.13092)[\[code\]]()
 
 ## Graph
 

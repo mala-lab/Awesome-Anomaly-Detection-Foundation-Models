@@ -94,6 +94,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Zhao2025] AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection  in *CVPRW*, 2025. [\[paper\]](https://arxiv.org/abs/2504.04340)[\[code\]]()
 
+- [Kim2025] GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2504.14919)[\[code\]]()
   
 ## Video
 

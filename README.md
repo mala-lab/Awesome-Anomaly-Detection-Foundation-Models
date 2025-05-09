@@ -152,9 +152,11 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
   
 ## Log
 
+- [Karlsen2023]Benchmarking Large Language Models for Log Analysis, Security, and Interpretation *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2311.14519)[\[code\]]()
+
 - [Qi2023] LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection in *Arixv*, 2024. [\[paper\]](https://arxiv.org/abs/2309.01189)[\[code\]]()
 
-- [Almodovar2024] LogFiT: Log Anomaly Detection Using Fine-Tuned Language Models in *TKDE*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/document/10414427/)[\[code\]]()
+- [Almodovar2024] LogFiT: Log Anomaly Detection Using Fine-Tuned Language Models in *TNSM*, 2024.  [\[paper\]](https://ieeexplore.ieee.org/document/10414427/)[\[code\]]()
 
 - [Guan2025]  LogLLM: Log-based Anomaly Detection Using Large Language Models  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2411.08561)[\[code\]]()
 

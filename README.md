@@ -141,6 +141,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
   
 - [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
+- [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]]()
 
 
 ## Text 

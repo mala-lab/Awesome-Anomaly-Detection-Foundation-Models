@@ -86,6 +86,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 - [Li2025] One-for-More: Continual Diffusion Model for Anomaly DetectionOne-for-More: Continual Diffusion Model for Anomaly Detection   in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2502.19848)[\[code\]](https://github.com/FuNz-0/One-for-More)
 
 -  [Zeng2025]  Towards Efficient and General-Purpose Few-Shot Misclassification Detection for Vision-Language Models in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.20492)[\[code\]]()
+- 
 -  [Luo2025]  Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.02424)[\[code\]]()
 
 - [Sun2025] Anomaly Anything: Promptable Unseen Visual Anomaly Generation in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2406.01078)[\[code\]]()
@@ -98,7 +99,9 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Chao2025] AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2504.11914)[\[code\]]()
 
-  
+- [Hu2025] ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection in *IJCAI*, 2025. [\[paper\]](https://arxiv.org/pdf/2505.06603)[\[code\]](https://github.com/HULEI7/ReplayCAD)
+
+
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)

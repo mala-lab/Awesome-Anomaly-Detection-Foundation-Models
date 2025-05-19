@@ -101,6 +101,7 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 - [Hu2025] ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection in *IJCAI*, 2025. [\[paper\]](https://arxiv.org/pdf/2505.06603)[\[code\]](https://github.com/HULEI7/ReplayCAD)
 
+- [Gao2025] AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.09926)[\[code\]](https://github.com/gaobb/AdaptCLIP)
 
 ## Video
 

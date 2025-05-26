@@ -8,7 +8,9 @@
 
 A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with the large language model, large visual model, and graph foundation model.
 
+We will continue to update this list with the latest resources. If you find any missed resources (paper/code) or errors, please **feel free to open an issue or make a pull request**.
 
+ 
 ## Tabular data
 
 - [Li2024] Anomaly Detection of Tabular Data Using LLMs  in *IJCAI-W*, 2024. [\[paper\]](https://arxiv.org/abs/2406.16308)[\[code\]]()

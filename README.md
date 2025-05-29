@@ -135,7 +135,7 @@ We will continue to update this list with the latest resources. If you find any 
  
 - [Shao2025] EventVAD: Training-Free Event-Aware Video Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.13092)[\[code\]]()
 
-
+- [Huang2025] Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2505.19877)[\[code\]](https://github.com/wbfwonderful/Vad-R1)
 
 ## Graph
 

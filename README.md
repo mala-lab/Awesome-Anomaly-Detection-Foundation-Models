@@ -105,6 +105,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Gao2025] AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.09926)[\[code\]](https://github.com/gaobb/AdaptCLIP)
 
+- [Yang2025] ViP-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.17692)[\[code\]](https://github.com/gaobb/AdaptCLIP)
+
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)
@@ -136,6 +138,9 @@ We will continue to update this list with the latest resources. If you find any 
 - [Shao2025] EventVAD: Training-Free Event-Aware Video Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.13092)[\[code\]]()
 
 - [Huang2025] Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2505.19877)[\[code\]](https://github.com/wbfwonderful/Vad-R1)
+
+- [Lee2025] Flashback: Memory-Driven Zero-shot, Real-time Video Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2505.15205)[\[code\]]()
+
 
 ## Graph
 

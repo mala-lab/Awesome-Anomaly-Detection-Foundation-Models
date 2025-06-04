@@ -41,6 +41,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Wang2025] Pre-training Enhanced Transformer for multivariate time series anomaly detection in  *Information Fusion*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S1566253525002441)[\[code\]]()
 
+- [Maru2025] RATFM: Retrieval-augmented Time Series Foundation Model for Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2506.02081)[\[code\]]()
+
 ## Image
 
 - [Jeong2023] WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation in *CVPR*, 2023. [\[paper\]](https://arxiv.org/abs/2303.14814)[\[code\]]()

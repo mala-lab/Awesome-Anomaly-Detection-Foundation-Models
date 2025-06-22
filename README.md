@@ -1,4 +1,4 @@
-# Awesome-Anomaly-Detection-with-Large-Language-Model/Visual-Language-Model
+# Anomaly Detection Foundation Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 

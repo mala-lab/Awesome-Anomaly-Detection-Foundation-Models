@@ -43,6 +43,11 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Maru2025] RATFM: Retrieval-augmented Time Series Foundation Model for Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2506.02081)[\[code\]]()
 
+- [Garcia2025] Towards Foundation Auto-Encoders for Time-Series Anomaly Detection in *KDDW*, 2025. [\[paper\]](https://arxiv.org/abs/2507.01875)[\[code\]]()
+
+- [Park2025] When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2506.23596)[\[code\]](https://github.com/KU-VGI/AP)
+ 
+
 ## Image
 
 - [Jeong2023] WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation in *CVPR*, 2023. [\[paper\]](https://arxiv.org/abs/2303.14814)[\[code\]]()
@@ -109,6 +114,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Yang2025] ViP-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.17692)[\[code\]](https://github.com/gaobb/AdaptCLIP)
 
+- [Shiri2025]  MadCLIP: Few-shot Medical Anomaly Detection with CLIP in *MICCAI*, 2025. [\[paper\]](https://arxiv.org/abs/2506.23810)[\[code\]](https://github.com/mahshid1998/MadCLIP)
+
+
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)
@@ -143,6 +151,14 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Lee2025] Flashback: Memory-Driven Zero-shot, Real-time Video Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2505.15205)[\[code\]]()
 
+- [Orlova2025] Simplifying Traffic Anomaly Detection with Video Foundation Models in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2507.09338)[\[code\]]()
+
+- [Zang2025] SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment in *MM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2507.07939)[\[code\]](https://github.com/amoreZgx1n/SAGE)
+
+- [Mu2025] NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2507.07579)[\[code\]]()
+
+
+  
 
 ## Graph
 
@@ -154,7 +170,7 @@ We will continue to update this list with the latest resources. If you find any 
   
 - [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
-- [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]]()
+- [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]](https://github.com/tue-mps/simple-tad)
 
 
 ## Text 

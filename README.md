@@ -3,7 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)
-[![Visits Badge](https://badges.pufler.dev/visits/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)](https://badges.pufler.dev/visits/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)
 
 
 A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with the large language model, large visual model, and graph foundation model.

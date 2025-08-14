@@ -165,12 +165,13 @@ We will continue to update this list with the latest resources. If you find any 
   
 - [Lin2024] UniGAD: Unifying Multi-level Graph Anomaly Detection in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/pdf?id=sRILMnkkQd)[\[code\]](https://github.com/lllyyq1121/UniGAD)
   
-- [Niu2024]  Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.14886)[\[code\]](https://github.com/mala-lab/UNPrompt)
+- [Niu2024]  Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts  in *IJCAI*, 2024. [\[paper\]](https://arxiv.org/pdf/2410.14886)[\[code\]](https://github.com/mala-lab/UNPrompt)
   
-- [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
+- [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *KDD*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
 - [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]](https://github.com/tue-mps/simple-tad)
 
+- [Zheng2025] DP-DGAD: A Generalist Dynamic Graph Anomaly Detector with Dynamic Prototypes in *Aexiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00664)[\[code\]]()
 
 ## Text 
 

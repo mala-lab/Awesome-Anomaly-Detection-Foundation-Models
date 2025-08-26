@@ -218,6 +218,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Zhao2025] From Few-Label to Zero-Label: An Approach for Cross-System Log-Based Anomaly Detection with Meta-Learning in *FSE*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.19806)[\[code\]]()
 
+- [Ocansey2025] LogTinyLLM: Tiny Large Language Models Based Contextual Log Anomaly Detection  in *Arxiv*, 2025.    [\[paper\]](https://arxiv.org/abs/2507.11071)[\[code\]]()
+
 ## Related Survey
 
 - [Ren2025] Foundation Models for Anomaly Detection: Vision and Challenges in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.06911)[\[code\]]()

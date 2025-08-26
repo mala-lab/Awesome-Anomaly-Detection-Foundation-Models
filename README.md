@@ -127,8 +127,11 @@ We will continue to update this list with the latest resources. If you find any 
 
 -  [Abdi2025] Zero-Shot Image Anomaly Detection Using Generative Foundation Models in *ICCV*, 2025.  [\[paper\]](https://arxiv.org/abs/2507.22692)[\[code\]]()
 
--  [Fang2025]   AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation in *ACM MM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2507.19949)[\[code\]]()  
+-  [Fang2025]   AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation in *ACM MM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2507.19949)[\[code\]]()
 
+-  [Qu2025] DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup in *ICCV*, 2025.  [\[paper\]](https://www.arxiv.org/pdf/2508.13560)[\[code\]](https://github.com/xiaozhen228/DictAS)
+
+  
 ## Video
 
 - [Wu2023] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection  in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2308.11681)[\[code\]](https://github.com/nwpu-zxr/VadCLIP)

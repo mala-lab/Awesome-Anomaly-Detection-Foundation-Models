@@ -121,6 +121,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Gu2025] AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2508.06203)[\[code\]]()
 
+- [Chen2025] CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2508.03447)[\[code\]](https://github.com/cqylunlun/CoPS)
+
+
 
 ## Video
 

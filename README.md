@@ -115,6 +115,12 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Shiri2025]  MadCLIP: Few-shot Medical Anomaly Detection with CLIP in *MICCAI*, 2025. [\[paper\]](https://arxiv.org/abs/2506.23810)[\[code\]](https://github.com/mahshid1998/MadCLIP)
 
+- [Aqeel2025] A Contrastive Learning-Guided Confident Meta-learning for Zero-Shot Anomaly Detection in *ICCV*, 2025.  [\[paper\]](https://arxiv.org/pdf/2508.17827)[\[code\]]()
+
+- [Song2025] Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images  in *ICCV*, 2025.  [\[paper\]](https://arxiv.org/pdf/2508.15256)[\[code\]]()
+
+- [Gu2025] AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2508.06203)[\[code\]]()
+
 
 ## Video
 
@@ -156,6 +162,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Mu2025] NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2507.07579)[\[code\]]()
 
+- [Gu2025] AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2508.06203)[\[code\]]()
 
   
 

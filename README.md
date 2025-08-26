@@ -123,7 +123,11 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Chen2025] CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2508.03447)[\[code\]](https://github.com/cqylunlun/CoPS)
 
+- [Wang2025] Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection in *BMVC*, 2025. [\[paper\]](https://arxiv.org/abs/2508.00777)[\[code\]]()
 
+-  [Abdi2025] Zero-Shot Image Anomaly Detection Using Generative Foundation Models in *ICCV*, 2025.  [\[paper\]](https://arxiv.org/abs/2507.22692)[\[code\]]()
+
+-  [Fang2025]   AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation in *ACM MM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2507.19949)[\[code\]]()  
 
 ## Video
 
@@ -181,7 +185,9 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]](https://github.com/tue-mps/simple-tad)
 
-- [Zheng2025] DP-DGAD: A Generalist Dynamic Graph Anomaly Detector with Dynamic Prototypes in *Aexiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00664)[\[code\]]()
+- [Zheng2025] DP-DGAD: A Generalist Dynamic Graph Anomaly Detector with Dynamic Prototypes in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00664)[\[code\]]()
+
+- [Xu2025]  Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00507)[\[code\]]()
 
 ## Text 
 
@@ -209,6 +215,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Liu2024] Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies in *ICPC* [\[paper\]](https://arxiv.org/abs/2308.07610)[\[code\]](https://github.com/lunyiliu/LogPrompt)
 
 - [Xu2025] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=M4qNIzQYpd)[\[code\]](https://github.com/openrca/orca)
+
+- [Zhao2025] From Few-Label to Zero-Label: An Approach for Cross-System Log-Based Anomaly Detection with Meta-Learning in *FSE*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.19806)[\[code\]]()
 
 ## Related Survey
 

@@ -188,7 +188,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]](https://github.com/tue-mps/simple-tad)
 
-- [Zheng2025] DP-DGAD: A Generalist Dynamic Graph Anomaly Detector with Dynamic Prototypes in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00664)[\[code\]]()
+- [Zheng2025] DP-DGAD: A Generalist Dynamic Graph Anomaly Detector with Dynamic Prototypes in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00664)[\[code\]](https://github.com/Jackmeory/KDD2026-DP-DGAD)
 
 - [Xu2025]  Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00507)[\[code\]]()
 

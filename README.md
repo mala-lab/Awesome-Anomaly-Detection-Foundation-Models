@@ -192,6 +192,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Xu2025]  Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00507)[\[code\]]()
 
+- [Yu2025] Automated graph anomaly detection with large language models, in *KBS*,2025.   [\[paper\]](https://www.sciencedirect.com/science/article/pii/S095070512500855X)[\[code\]]()
+
 ## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()

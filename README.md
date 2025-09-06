@@ -11,7 +11,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ## Tutorial
 
-📢 We are excited to announce that we will be hosting a <strong>tutorial</strong> titled 👉 <a href=""><strong>Toward Foundation Models for Detecting Abnormal Activities on Graphs</strong></a><br> at the upcoming <a href="https://2025.ijcai.org/"><strong>AAAI 2026</strong></a>, see you in Singapore!
+📢 We are excited to announce that we will be hosting a <strong>tutorial</strong> titled 👉 <a href=""><strong>Toward Foundation Models for Detecting Abnormal Activities on Graphs</strong></a><br> at the upcoming <a href="https://aaai.org/conference/aaai/aaai-26/"><strong>AAAI 2026</strong></a>, see you in Singapore!
 
 It will be a half-day tutorial scheduled for the full morning of January 20, 2026.
 

@@ -9,7 +9,16 @@ A collection of papers on anomaly detection (tabular data/time series/image/vide
 
 We will continue to update this list with the latest resources. If you find any missed resources (paper/code) or errors, please **feel free to open an issue or make a pull request**.
 
- 
+## Tutorial
+
+📢 We are excited to announce that we will be hosting a <strong>tutorial</strong> titled 👉 <a href=""><strong>Toward Foundation Models for Detecting Abnormal Activities on Graphs</strong></a><br> at the upcoming <a href="https://2025.ijcai.org/"><strong>AAAI 2026</strong></a>, see you in Singapore!
+
+It will be a half-day tutorial scheduled for the full morning of January 20, 2026.
+
+The webpage and slides will be available soon！
+
+
+
 ## Tabular data
 
 - [Li2024] Anomaly Detection of Tabular Data Using LLMs  in *IJCAI-W*, 2024. [\[paper\]](https://arxiv.org/abs/2406.16308)[\[code\]]()

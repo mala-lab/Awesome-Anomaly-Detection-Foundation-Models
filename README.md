@@ -12,7 +12,6 @@ We will continue to update this list with the latest resources. If you find any 
 ## Tutorial
 
 📢 We are excited to announce that we will be hosting two <strong>tutorials</strong> titled 👉
-
 <ul><li> 👉 <a href=""><strong>Foundation Models in Visual Anomaly Detection: Advances, Challenges, and Applications</strong></a> — at <a href="https://iccv.thecvf.com/virtual/2025/events/tutorial"><strong>ICCV 2025</strong></a></li> </ul>
 <ul> <li>👉 <a href=""><strong>Toward Foundation Models for Detecting Abnormal Activities on Graphs</strong></a> — at <a href="https://aaai.org/conference/aaai/aaai-26/"><strong>AAAI 2026</strong></a></li> 
 
@@ -20,9 +19,7 @@ respectively!
 
 Both are half-day tutorials scheduled on 19 Oct (ICCV 2025) and January 20, 2026 (AAAI 2026).
 
-The webpage and slides will be available soon！
-
-✨ <strong>We warmly welcome everyone to attend!</strong> ✨
+The webpage and slides will be available soon！ ✨ <strong>We warmly welcome everyone to attend!</strong> ✨
 
 ## Tabular data
 

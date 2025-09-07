@@ -17,7 +17,7 @@ It will be a half-day tutorial scheduled for the full morning of January 20, 202
 
 The webpage and slides will be available soon！
 
-
+✨ <strong>We warmly welcome everyone to attend!</strong> ✨
 
 ## Tabular data
 

@@ -243,4 +243,5 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Xu2025] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey  in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2409.01980)[\[code\]]()
 
+- [Pan2025] A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models   in *ICKG *, 2025.  [\[paper\]](https://arxiv.org/abs/2509.06609)[\[code\]]()
 

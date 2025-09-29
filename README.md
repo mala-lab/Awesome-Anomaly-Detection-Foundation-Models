@@ -55,7 +55,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Garcia2025] Towards Foundation Auto-Encoders for Time-Series Anomaly Detection in *KDDW*, 2025. [\[paper\]](https://arxiv.org/abs/2507.01875)[\[code\]]()
 
 - [Park2025] When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2506.23596)[\[code\]](https://github.com/KU-VGI/AP)
- 
+
+- [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2509.21190)[\[code\]]()
 
 ## Image
 

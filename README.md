@@ -29,6 +29,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Chen2025]  PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection   in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2412.12154)[\[code\]](https://github.com/yzhao062/pyod)
 
 ## Time series
+- [Lan2024] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)
 
 - [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA)
 

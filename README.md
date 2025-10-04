@@ -186,7 +186,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Gu2025] AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2508.06203)[\[code\]]()
 
-  
+- [Yang2025] PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer  in *NeurIPS*, 2025.   [\[paper\]](https://arxiv.org/abs/2509.26386)[\[code\]](https://github.com/showlab/PANDA)
 
 ## Graph
 

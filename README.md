@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)
 
 
-A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with the large language model, large visual model, and graph foundation model.
+A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with foundation models, e.g., large language model, large vision-language model, graph foundation model, time series foundation model, etc.
 
 We will continue to update this list with the latest resources. If you find any missed resources (paper/code) or errors, please **feel free to open an issue or make a pull request**.
 
@@ -19,45 +19,6 @@ We will continue to update this list with the latest resources. If you find any 
 Both are half-day tutorials scheduled on 19 Oct (ICCV 2025) and January 20, 2026 (AAAI 2026).
 
 The webpage and slides will be available soon！ ✨ <strong>We warmly welcome everyone to attend!</strong> ✨
-
-## Tabular data
-
-- [Li2024] Anomaly Detection of Tabular Data Using LLMs  in *IJCAI-W*, 2024. [\[paper\]](https://arxiv.org/abs/2406.16308)[\[code\]]()
-  
-- [Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
-
-- [Chen2025]  PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection   in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2412.12154)[\[code\]](https://github.com/yzhao062/pyod)
-
-## Time series
-- [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)
-
-- [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA)
-
-- [Liu2024] Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection in  *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.15370)[\[code\]]()
-
-- [Alnegheimish2024] Large language models can be zero-shot anomaly detectors for time series? in  *DSAA*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.14755)[\[code\]]()
-
-- [Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
-
-- [Zhou2025]  Can LLMs Understand Time Series Anomalies?  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.05440)[\[code\]](https://github.com/rose-stl-lab/anomllm)
-
-- [Xu2025]  Can Multimodal LLMs Perform Time Series Anomaly Detection?  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2502.17812)[\[code\]](https://github.com/mllm-ts/VisualTimeAnomaly)
-
-- [Chen2025] Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2501.05675)[\[code\]]()
-
-- [Wu2025] Uncertainty-Aware Fine-Tuning for Time Series Anomaly Detection in  *Openreview*, 2025. [\[paper\]](https://openreview.net/pdf?id=W1wlE4bPqP)[\[code\]]()
-
-- [Yang2025] Refining Time Series Anomaly Detectors using Large Language Models  in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.21833)[\[code\]]()
-
-- [Wang2025] Pre-training Enhanced Transformer for multivariate time series anomaly detection in  *Information Fusion*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S1566253525002441)[\[code\]]()
-
-- [Maru2025] RATFM: Retrieval-augmented Time Series Foundation Model for Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2506.02081)[\[code\]]()
-
-- [Garcia2025] Towards Foundation Auto-Encoders for Time-Series Anomaly Detection in *KDDW*, 2025. [\[paper\]](https://arxiv.org/abs/2507.01875)[\[code\]]()
-
-- [Park2025] When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2506.23596)[\[code\]](https://github.com/KU-VGI/AP)
-
-- [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2509.21190)[\[code\]]()
 
 ## Image
 
@@ -188,6 +149,39 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Yang2025] PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer  in *NeurIPS*, 2025.   [\[paper\]](https://arxiv.org/abs/2509.26386)[\[code\]](https://github.com/showlab/PANDA)
 
+
+## Time series
+- [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)
+
+- [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA)
+
+- [Liu2024] Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection in  *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.15370)[\[code\]]()
+
+- [Alnegheimish2024] Large language models can be zero-shot anomaly detectors for time series? in  *DSAA*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.14755)[\[code\]]()
+
+- [Shentu2025] Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders in *ICLR*, 2025. [\[paper\]](https://arxiv.org/pdf/2405.15273)[\[code\]](https://github.com/decisionintelligence/DADA)
+
+- [Zhou2025]  Can LLMs Understand Time Series Anomalies?  in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.05440)[\[code\]](https://github.com/rose-stl-lab/anomllm)
+
+- [Xu2025]  Can Multimodal LLMs Perform Time Series Anomaly Detection?  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2502.17812)[\[code\]](https://github.com/mllm-ts/VisualTimeAnomaly)
+
+- [Chen2025] Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2501.05675)[\[code\]]()
+
+- [Wu2025] Uncertainty-Aware Fine-Tuning for Time Series Anomaly Detection in  *Openreview*, 2025. [\[paper\]](https://openreview.net/pdf?id=W1wlE4bPqP)[\[code\]]()
+
+- [Yang2025] Refining Time Series Anomaly Detectors using Large Language Models  in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.21833)[\[code\]]()
+
+- [Wang2025] Pre-training Enhanced Transformer for multivariate time series anomaly detection in  *Information Fusion*, 2025. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S1566253525002441)[\[code\]]()
+
+- [Maru2025] RATFM: Retrieval-augmented Time Series Foundation Model for Anomaly Detection in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2506.02081)[\[code\]]()
+
+- [Garcia2025] Towards Foundation Auto-Encoders for Time-Series Anomaly Detection in *KDDW*, 2025. [\[paper\]](https://arxiv.org/abs/2507.01875)[\[code\]]()
+
+- [Park2025] When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2506.23596)[\[code\]](https://github.com/KU-VGI/AP)
+
+- [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2509.21190)[\[code\]]()
+
+
 ## Graph
 
 - [Liu2024] ARC: A Generalist Graph Anomaly Detector with In-Context Learning in *NeurIPS*, 2024.  [\[paper\]](https://arxiv.org/abs/2405.16771)[\[code\]](https://github.com/yixinliu233/ARC)
@@ -236,6 +230,16 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Zhao2025] From Few-Label to Zero-Label: An Approach for Cross-System Log-Based Anomaly Detection with Meta-Learning in *FSE*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.19806)[\[code\]]()
 
 - [Ocansey2025] LogTinyLLM: Tiny Large Language Models Based Contextual Log Anomaly Detection  in *Arxiv*, 2025.    [\[paper\]](https://arxiv.org/abs/2507.11071)[\[code\]]()
+
+
+## Tabular data
+
+- [Li2024] Anomaly Detection of Tabular Data Using LLMs  in *IJCAI-W*, 2024. [\[paper\]](https://arxiv.org/abs/2406.16308)[\[code\]]()
+  
+- [Tsai2025] AnoLLM: Large Language Models for Tabular Anomaly Detection in *ICLR*, 2025. [\[paper\]](https://openreview.net/pdf?id=7VkHffT5X2)[\[code\]]()
+
+- [Chen2025]  PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection   in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2412.12154)[\[code\]](https://github.com/yzhao062/pyod)
+
 
 ## Related Survey
 

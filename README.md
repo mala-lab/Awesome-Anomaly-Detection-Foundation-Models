@@ -104,6 +104,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 -  [Qu2025] DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup in *ICCV*, 2025.  [\[paper\]](https://www.arxiv.org/pdf/2508.13560)[\[code\]](https://github.com/xiaozhen228/DictAS)
 
+- [Wang2025] Normal-Abnormal Guided Generalist Anomaly Detection in *NeurIPS*, 2025.  [\[paper\]](https://arxiv.org/abs/2510.00495)[\[code\]](https://github.com/JasonKyng/NAGL)
+
   
 ## Video
 

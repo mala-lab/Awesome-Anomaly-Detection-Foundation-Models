@@ -151,6 +151,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Yang2025] PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer  in *NeurIPS*, 2025.   [\[paper\]](https://arxiv.org/abs/2509.26386)[\[code\]](https://github.com/showlab/PANDA)
 
+- [Zou2025] Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2510.02155)[\[code\]]()
 
 ## Time series
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)

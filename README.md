@@ -245,6 +245,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Ye2025]  LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.03904)[\[code\]]()
 
+- [Yoon2025] ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.02060)[\[code\]]()
+
 
 ## Related Survey
 

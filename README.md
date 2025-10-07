@@ -243,6 +243,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Chen2025]  PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection   in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2412.12154)[\[code\]](https://github.com/yzhao062/pyod)
 
+- [Ye2025]  LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.03904)[\[code\]]()
+
 
 ## Related Survey
 

@@ -12,7 +12,7 @@ We will continue to update this list with the latest resources. If you find any 
 ## Tutorial
 
 📢 We are excited to announce that we will be hosting two <strong>tutorials</strong> titled 👉
-<ul><li> 👉 <a href=""><strong>Foundation Models in Visual Anomaly Detection: Advances, Challenges, and Applications</strong></a> — at <a href="https://iccv.thecvf.com/virtual/2025/events/tutorial"><strong>ICCV 2025</strong></a></li> </ul>
+<ul><li> 👉 <a href="https://sites.google.com/view/iccv2025-tutorial-fm-driven-ad/home"><strong>Foundation Models in Visual Anomaly Detection: Advances, Challenges, and Applications</strong></a> — at <a href="https://iccv.thecvf.com/virtual/2025/events/tutorial"><strong>ICCV 2025</strong></a></li> </ul>
 <ul> <li>👉 <a href="https://sites.google.com/view/aaai26-tutorial-gad/home"><strong>Toward Foundation Models for Detecting Abnormal Activities on Graphs</strong></a> — at <a href="https://sites.google.com/view/aaai26-tutorial-gad/home"><strong>AAAI 2026</strong></a></li> 
 </ul>
 

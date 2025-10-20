@@ -155,6 +155,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Zhu2025] VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2505.23504)[\[code\]](https://github.com/GVCLab/VAU-R1)
 
+- [Liu2025] Language-guided Open-world Video Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.13160)[\[code\]]()
+
 ## Time series
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)
 

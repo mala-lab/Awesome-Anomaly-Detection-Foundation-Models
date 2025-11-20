@@ -238,6 +238,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Ocansey2025] LogTinyLLM: Tiny Large Language Models Based Contextual Log Anomaly Detection  in *Arxiv*, 2025.    [\[paper\]](https://arxiv.org/abs/2507.11071)[\[code\]]()
 
+- [Zou2025] Towards Generalizable Context-Aware Anomaly Detection: A Large-Scale Benchmark in Cloud Environments in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2508.01844)[\[code\]](https://jayzou3773.github.io/cloudanobench-agent/)
+
 
 ## Tabular data
 

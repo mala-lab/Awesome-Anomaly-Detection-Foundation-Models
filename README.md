@@ -4,6 +4,8 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/mala-lab/Awesome-Anomaly-Detection-with-Foundation-Models)
 
+![Framework of AnomalyGFM](framework.png)
+
 
 A collection of papers on anomaly detection (tabular data/time series/image/video/graph/text/log) with foundation models, e.g., large language model, large vision-language model, graph foundation model, time series foundation model, etc.
 

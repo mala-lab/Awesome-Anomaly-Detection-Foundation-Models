@@ -160,6 +160,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Li2025] Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2511.19474)[\[code\]]()
 
+- [Huang2025] Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2511.17094)[\[code\]]()
 
 ## Time series
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)

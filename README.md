@@ -106,6 +106,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Wang2025] Normal-Abnormal Guided Generalist Anomaly Detection in *NeurIPS*, 2025.  [\[paper\]](https://arxiv.org/abs/2510.00495)[\[code\]](https://github.com/JasonKyng/NAGL)
 
+- [Shao2025]  PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures in *AAAI*, 2026.  [\[paper\]](https://arxiv.org/pdf/2511.18116)[\[code\]]()
   
 ## Video
 

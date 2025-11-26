@@ -211,6 +211,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Yu2025] Automated graph anomaly detection with large language models, in *KBS*,2025.   [\[paper\]](https://www.sciencedirect.com/science/article/pii/S095070512500855X)[\[code\]]()
 
+- [Xu2025] LLM-Powered Text-Attributed Graph Anomaly Detection via Retrieval-Augmented Reasoning  in *Arxiv*,2025.   [\[paper\]](https://arxiv.org/pdf/2511.17584)[\[code\]]()
+ 
 ## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()

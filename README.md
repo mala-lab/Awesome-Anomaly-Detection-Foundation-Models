@@ -16,7 +16,7 @@ We will continue to update this list with the latest resources. If you find any 
 <ul> <li>👉 <a href="https://sites.google.com/view/aaai26-tutorial-gad/home"><strong>Toward Foundation Models for Detecting Abnormal Activities on Graphs</strong></a> — at <a href="https://sites.google.com/view/aaai26-tutorial-gad/home"><strong>AAAI 2026</strong></a></li> 
 </ul>
 
-Both are half-day tutorials scheduled on 19 Oct (ICCV 2025) and January 21, 2026 (AAAI 2026).
+Both are half-day tutorials scheduled on October 19, 2025 (ICCV 2025) and January 21, 2026 (AAAI 2026).
 
 The webpage and slides will be available soon！ ✨ <strong>We warmly welcome everyone to attend!</strong> ✨
 

@@ -250,6 +250,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Zou2025] Towards Generalizable Context-Aware Anomaly Detection: A Large-Scale Benchmark in Cloud Environments in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2508.01844)[\[code\]](https://jayzou3773.github.io/cloudanobench-agent/)
 
+- [Ye2025] LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection  in *Arxiv*, 2025.    [\[paper\]](https://arxiv.org/abs/2512.09627)[\[code\]]()
+- 
 
 ## Tabular data
 
@@ -263,6 +265,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Yoon2025] ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.02060)[\[code\]]()
 
+- [Wu2025] ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2512.01672)[\[code\]]()
 
 ## Related Survey
 

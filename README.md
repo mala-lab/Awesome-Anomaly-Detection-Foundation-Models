@@ -101,15 +101,19 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Wang2025] Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection in *BMVC*, 2025. [\[paper\]](https://arxiv.org/abs/2508.00777)[\[code\]]()
 
--  [Abdi2025] Zero-Shot Image Anomaly Detection Using Generative Foundation Models in *ICCV*, 2025.  [\[paper\]](https://arxiv.org/abs/2507.22692)[\[code\]]()
+- [Abdi2025] Zero-Shot Image Anomaly Detection Using Generative Foundation Models in *ICCV*, 2025.  [\[paper\]](https://arxiv.org/abs/2507.22692)[\[code\]]()
 
--  [Fang2025]   AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation in *ACM MM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2507.19949)[\[code\]]()
+- [Fang2025]   AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation in *ACM MM*, 2025.  [\[paper\]](https://arxiv.org/pdf/2507.19949)[\[code\]]()
 
--  [Qu2025] DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup in *ICCV*, 2025.  [\[paper\]](https://www.arxiv.org/pdf/2508.13560)[\[code\]](https://github.com/xiaozhen228/DictAS)
+- [Qu2025] DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup in *ICCV*, 2025.  [\[paper\]](https://www.arxiv.org/pdf/2508.13560)[\[code\]](https://github.com/xiaozhen228/DictAS)
+
+- [He2025] RareCLIP: Rarity-aware Online Zero-shot Industrial Anomaly Detection *ICCV*, 2025.  [\[paper\]](\https://openaccess.thecvf.com/content/ICCV2025/html/He_RareCLIP_Rarity-aware_Online_Zero-shot_Industrial_Anomaly_Detection_ICCV_2025_paper.html)[\[code\]](https://github.com/hjf02/RareCLIP)
 
 - [Wang2025] Normal-Abnormal Guided Generalist Anomaly Detection in *NeurIPS*, 2025.  [\[paper\]](https://arxiv.org/abs/2510.00495)[\[code\]](https://github.com/JasonKyng/NAGL)
 
 - [Shao2025]  PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures in *AAAI*, 2026.  [\[paper\]](https://arxiv.org/pdf/2511.18116)[\[code\]]()
+
+
   
 ## Video
 

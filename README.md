@@ -165,6 +165,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Huang2025] Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2511.17094)[\[code\]]()
 
+- [Cai2025] HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection in *AAAI*,2025. [\[paper\]](https://arxiv.org/pdf/2512.17601)[\[code\]]()
+
 ## Time series
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)
 

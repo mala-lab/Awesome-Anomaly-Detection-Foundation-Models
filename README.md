@@ -283,3 +283,4 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Pan2025] A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models   in *ICKG*, 2025.  [\[paper\]](https://arxiv.org/abs/2509.06609)[\[code\]]()
 
+- [Wu2025] Deep Learning for Video Anomaly Detection: A Review in *TNNLS*, 2025.[\[paper\]](https://arxiv.org/abs/2409.05383)[\[code\]]()

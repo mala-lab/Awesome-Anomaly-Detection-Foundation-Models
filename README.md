@@ -213,6 +213,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
   
 - [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *KDD*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
+- [Chen] AffinityTune: A Prompt-Tuning Framework for Few-Shot Anomaly Detection on Graphs in *KDD*, 2025.  [\[paper\]](https://dl.acm.org/doi/10.1145/3711896.3736836)[\[code\]]()
+
 - [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]](https://github.com/tue-mps/simple-tad)
 
 - [Zheng2025] DP-DGAD: A Generalist Dynamic Graph Anomaly Detector with Dynamic Prototypes in *Arxiv*, 2025.   [\[paper\]](https://arxiv.org/abs/2508.00664)[\[code\]](https://github.com/Jackmeory/KDD2026-DP-DGAD)
@@ -222,6 +224,11 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Yu2025] Automated graph anomaly detection with large language models, in *KBS*,2025.   [\[paper\]](https://www.sciencedirect.com/science/article/pii/S095070512500855X)[\[code\]]()
 
 - [Xu2025] LLM-Powered Text-Attributed Graph Anomaly Detection via Retrieval-Augmented Reasoning  in *Arxiv*,2025.   [\[paper\]](https://arxiv.org/pdf/2511.17584)[\[code\]]()
+
+- [Liu2025] Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection in *Arxiv*,2025.   [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
+
+- [Song2025] UniFORM: Towards Unified Framework for Anomaly Detection on Graphs in *AAAI*,2026.   [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33369)[\[code\]]()
+
  
 ## Text 
 

@@ -213,7 +213,9 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
   
 - [Qiao2025]  AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection in *KDD*, 2025.  [\[paper\]](https://arxiv.org/pdf/2502.09254)[\[code\]](https://github.com/mala-lab/AnomalyGFM)
 
-- [Chen] AffinityTune: A Prompt-Tuning Framework for Few-Shot Anomaly Detection on Graphs in *KDD*, 2025.  [\[paper\]](https://dl.acm.org/doi/10.1145/3711896.3736836)[\[code\]]()
+- [Chen2025] AffinityTune: A Prompt-Tuning Framework for Few-Shot Anomaly Detection on Graphs in *KDD*, 2025.  [\[paper\]](https://dl.acm.org/doi/10.1145/3711896.3736836)[\[code\]]()
+
+- [Song2025] UniFORM: Towards Unified Framework for Anomaly Detection on Graphs in *AAAI*, 2025.   [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33369)[\[code\]]()
 
 - [Xu2025]  GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2504.21186)[\[code\]](https://github.com/tue-mps/simple-tad)
 
@@ -225,11 +227,17 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Xu2025] LLM-Powered Text-Attributed Graph Anomaly Detection via Retrieval-Augmented Reasoning  in *Arxiv*,2025.   [\[paper\]](https://arxiv.org/pdf/2511.17584)[\[code\]]()
 
-- [Liu2025] Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection in *Arxiv*,2025.   [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
+- [Zhang2025] IA-GGAD: Zero-shot Generalist Graph Anomaly Detection via Invariant and Affinity Learning in  *NeurIPS*, 2025.  [\[paper\]](https://openreview.net/pdf?id=Cggdvyt8ik)[\[code\]]()
 
-- [Song2025] UniFORM: Towards Unified Framework for Anomaly Detection on Graphs in *AAAI*,2026.   [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33369)[\[code\]]()
+- [Zheng2025] Breaking Semantic Barriers: A Zero-Shot Generalized Framework for Graph Anomaly Detection in  *WebConf*, 2026.  [\[paper\]](https://dl.acm.org/doi/10.1145/3746027.3755173)[\[code\]]()
 
- 
+- [Liu2026] Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection in *ICLR*,2026.   [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
+
+- [Zheng2026] OWLEYE: ZERO-SHOT LEARNER FOR CROSSDOMAIN GRAPH DATA ANOMALY DETECTION in *ICLR*,2026.  [\[paper\]](https://arxiv.org/pdf/2601.19102)[\[code\]]()
+
+
+
+- 
 ## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()
@@ -264,7 +272,9 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Zou2025] Towards Generalizable Context-Aware Anomaly Detection: A Large-Scale Benchmark in Cloud Environments in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2508.01844)[\[code\]](https://jayzou3773.github.io/cloudanobench-agent/)
 
 - [Ye2025] LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection  in *Arxiv*, 2025.    [\[paper\]](https://arxiv.org/abs/2512.09627)[\[code\]]()
-- 
+
+- [Wu2026]   Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems in *ICDM*, 2026.    [\[paper\]](https://dominatorx.github.io/files/26ICDE-p.pdf)[\[code\]]()
+
 
 ## Tabular data
 

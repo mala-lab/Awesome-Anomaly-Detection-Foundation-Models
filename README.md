@@ -235,9 +235,13 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Zheng2026] OWLEYE: ZERO-SHOT LEARNER FOR CROSSDOMAIN GRAPH DATA ANOMALY DETECTION in *ICLR*,2026.  [\[paper\]](https://arxiv.org/pdf/2601.19102)[\[code\]]()
 
+- [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
+
+- [Liu2026] Tabular Foundation Models are Strong Graph Anomaly Detectors  in *WebConf*,2026.   [\[paper\]](https://arxiv.org/abs/2601.17301)[\[code\]]()
+
+- [Pan2026] Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time  in *AAAI*,2026.   [\[paper\]](https://arxiv.org/abs/2511.07023)[\[code\]]()
 
 
-- 
 ## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()

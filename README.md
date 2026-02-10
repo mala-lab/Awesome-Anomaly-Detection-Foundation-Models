@@ -113,7 +113,9 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Shao2025]  PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures in *AAAI*, 2026.  [\[paper\]](https://arxiv.org/pdf/2511.18116)[\[code\]]()
 
+- [Xu2026] MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval in *ICLR*, 2026.  [\[paper\]](https://arxiv.org/abs/2602.00522)[\[code\]](https://github.com/CROVO1026/MRAD)
 
+- [Gao2026] One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection in *Arxiv*, 2026.  [\[paper\]]( https://arxiv.org/abs/2601.05552)[\[code\]](https://github.com/CROVO1026/MRAD)
   
 ## Video
 
@@ -172,6 +174,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Cai2025] HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection in *AAAI*,2025. [\[paper\]](https://arxiv.org/pdf/2512.17601)[\[code\]]()
 
 ## Time series
+
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2509.21190)
 
 - [Liu2024] Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection in *IJCAI*, 2024. [\[paper\]](https://www.ijcai.org/proceedings/2024/0239.pdf)[\[code\]](https://github.com/decisionintelligence/DADA)
@@ -241,6 +244,9 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Pan2026] Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time  in *AAAI*,2026.   [\[paper\]](https://arxiv.org/abs/2511.07023)[\[code\]]()
 
+- [Chen2026] GFM4GA: Graph Foundation Model for Group Anomaly Detection  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2601.10193)[\[code\]]()
+
+- 
 
 ## Text 
 
@@ -293,6 +299,11 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Yoon2025] ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.02060)[\[code\]]()
 
 - [Wu2025] ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models  in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2512.01672)[\[code\]]()
+
+- [Wang2026]  CausalTAD: Injecting Causal Knowledge into Large Language Models for Tabular Anomaly Detection in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/pdf/2602.07798)[\[code\]](https://github.com/350234/CausalTAD)
+
+- [Ding2026] From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2602.03018)[\[code\]]()
+
 
 ## Related Survey
 

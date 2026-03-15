@@ -205,6 +205,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2509.21190)[\[code\]]()
 
+- [He2026] TimeRadar: A Domain-Rotatable Foundation Model for Time Series Anomaly Detection  in  *Arxiv*, 2026. [\[paper\]](https://arxiv.org/pdf/2602.19068v1)[\[code\]](https://github.com/mala-lab/TimeRadar)
 
 ## Graph
 

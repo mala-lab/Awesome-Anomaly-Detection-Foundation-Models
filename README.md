@@ -116,6 +116,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Xu2026] MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval in *ICLR*, 2026.  [\[paper\]](https://arxiv.org/abs/2602.00522)[\[code\]](https://github.com/CROVO1026/MRAD)
 
 - [Gao2026] One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection in *Arxiv*, 2026.  [\[paper\]]( https://arxiv.org/abs/2601.05552)[\[code\]](https://github.com/CROVO1026/MRAD)
+
+- [Hou2026] VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transforme  in *CVPR*, 2026.  [\[paper\]](https://arxiv.org/pdf/2603.07952)[\[code\]](https://github.com/7HHHHH/VisualAD)
   
 ## Video
 

@@ -249,7 +249,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Chen2026] GFM4GA: Graph Foundation Model for Group Anomaly Detection  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2601.10193)[\[code\]]()
 
-- 
+- [Zhang2026] TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2603.09349)[\[code\]]()
 
 ## Text 
 
@@ -307,6 +307,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Ding2026] From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2602.03018)[\[code\]]()
 
+- [Li2026] Towards One-for-All Anomaly Detection for Tabular Data in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2603.14407)[\[code\]]() 
 
 ## Related Survey
 

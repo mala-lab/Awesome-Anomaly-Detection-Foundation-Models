@@ -288,6 +288,10 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Wu2026]   Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems in *ICDM*, 2026.    [\[paper\]](https://dominatorx.github.io/files/26ICDE-p.pdf)[\[code\]]()
 
+- [Jiang2026]  Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts in *Arxiv*, 2026.    [\[paper\]](https://arxiv.org/abs/2602.11622)[\[code\]]()
+
+- [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts  in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
+
 
 ## Tabular data
 

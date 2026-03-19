@@ -205,6 +205,8 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Park2025] When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series in *ICML*, 2025. [\[paper\]](https://arxiv.org/abs/2506.23596)[\[code\]](https://github.com/KU-VGI/AP)
 
+- [Cheng2026] STAR: Boosting Time Series Foundation Models for Anomaly Detection through State-aware Adapter in  *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2510.16014)[\[code\]]()
+   
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2509.21190)[\[code\]]()
 
 - [He2026] TimeRadar: A Domain-Rotatable Foundation Model for Time Series Anomaly Detection  in  *Arxiv*, 2026. [\[paper\]](https://arxiv.org/pdf/2602.19068v1)[\[code\]](https://github.com/mala-lab/TimeRadar)

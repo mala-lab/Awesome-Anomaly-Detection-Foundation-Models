@@ -253,6 +253,10 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Zhang2026] TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2603.09349)[\[code\]]()
 
+- [Zheng2026] OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection  in *ICLR*,2026.   [\[paper\]](https://arxiv.org/abs/2601.19102)[\[code\]](https://github.com/zhenglecheng/ICLR-2026-OWLEYE)
+ 
+- [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
+
 ## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()

@@ -21,7 +21,6 @@ We will continue to update this list with the latest resources. If you find any 
 
 Both are half-day tutorials scheduled on October 19, 2025 (ICCV 2025) and January 21, 2026 (AAAI 2026).
 
-The webpage and slides will be available soon！ ✨ <strong>We warmly welcome everyone to attend!</strong> ✨
 
 ## Image
 

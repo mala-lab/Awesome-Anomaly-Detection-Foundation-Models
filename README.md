@@ -302,6 +302,9 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 
 - [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts  in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
 
+- [Liu2026] Tabular Foundation Models are Strong Graph Anomaly Detectors in *WebConf*, 2026. [\[paper\]](https://arxiv.org/pdf/2601.17301)[\[code\]](https://github.com/Cloudy1225/TFM4GAD)
+
+- [Chen2026] GFM4GA: Graph Foundation Model for Group Anomaly Detection  in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2601.10193)[\[code\]]()
 
 ## Tabular data
 
@@ -322,6 +325,7 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
 - [Ding2026] From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2602.03018)[\[code\]]()
 
 - [Li2026] Towards One-for-All Anomaly Detection for Tabular Data in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2603.14407)[\[code\]]() 
+
 
 ## Related Survey
 

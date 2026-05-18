@@ -257,6 +257,10 @@ The webpage and slides will be available soon！ ✨ <strong>We warmly welcome e
  
 - [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
 
+- [Jiang2026]  Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.11622)[\[code\]]()
+
+
+
 ## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()

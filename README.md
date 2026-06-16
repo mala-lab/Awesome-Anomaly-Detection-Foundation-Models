@@ -238,8 +238,6 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Liu2026] Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection in *ICLR*,2026.   [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
 
-- [Zheng2026] OWLEYE: ZERO-SHOT LEARNER FOR CROSSDOMAIN GRAPH DATA ANOMALY DETECTION in *ICLR*,2026.  [\[paper\]](https://arxiv.org/pdf/2601.19102)[\[code\]]()
-
 - [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
 
 - [Liu2026] Tabular Foundation Models are Strong Graph Anomaly Detectors  in *WebConf*,2026.   [\[paper\]](https://arxiv.org/abs/2601.17301)[\[code\]]()

@@ -261,7 +261,14 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Jiang2026]  Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.11622)[\[code\]]()
 
+- [Fu2026] DR-GGAD: Dual Residual Centering for Mitigating Anomaly Non‑Discriminativity in Generalist Graph Anomaly Detection in *ICLR*,2026.  [\[paper\]](https://proceedings.iclr.cc/paper_files/paper/2026/hash/7538e7a7a589a267f49527fe6fbc640e-Abstract-Conference.html)[\[code\]]()
+
 - [Xu2026] Generalist Graph Anomaly Detection via Prototype-Based Distillation in *ICML*,2026. [\[paper\]](https://arxiv.org/abs/2605.26857)[\[code\]](https://github.com/yimingxu24/ProMoS)
+
+- [Wang2026] ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes in *Arxiv*,2026. [\[paper\]](https://arxiv.org/pdf/2608.10699)[\[code\]]()
+
+
+
 
 
 ## Text 

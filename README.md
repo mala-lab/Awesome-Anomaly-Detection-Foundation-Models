@@ -115,6 +115,9 @@ We will continue to update this list with the latest resources. If you find any 
 - [Gao2026] One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection in *Arxiv*, 2026.  [\[paper\]]( https://arxiv.org/abs/2601.05552)[\[code\]](https://github.com/CROVO1026/MRAD)
 
 - [Hou2026] VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transforme  in *CVPR*, 2026.  [\[paper\]](https://arxiv.org/pdf/2603.07952)[\[code\]](https://github.com/7HHHHH/VisualAD)
+
+- [Wang2026] Beyond Normal References: Discriminative Few-Shot Anomaly Detection in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2605.23231)[\[code\]](https://github.com/mala-lab/IDEAL)
+
   
 ## Video
 
@@ -206,7 +209,11 @@ We will continue to update this list with the latest resources. If you find any 
    
 - [Lan2025] Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2509.21190)[\[code\]]()
 
+- [Hu2026] Towards Multimodal Time Series Anomaly Detection with Semantic Alignment and Condensed Interaction  in *ICLR*, 2026.  [\[paper\]](https://arxiv.org/pdf/2603.21612)[\[code\]](https://github.com/decisionintelligence/MindTS)
+
 - [He2026] TimeRadar: A Domain-Rotatable Foundation Model for Time Series Anomaly Detection  in  *KDD*, 2026. [\[paper\]](https://arxiv.org/pdf/2602.19068v1)[\[code\]](https://github.com/mala-lab/TimeRadar)
+
+
 
 ## Graph
 
@@ -254,6 +261,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Jiang2026]  Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.11622)[\[code\]]()
 
+- [Xu2026] Generalist Graph Anomaly Detection via Prototype-Based Distillation in *ICML*,2026. [\[paper\]](https://arxiv.org/abs/2605.26857)[\[code\]](https://github.com/yimingxu24/ProMoS)
 
 
 ## Text 

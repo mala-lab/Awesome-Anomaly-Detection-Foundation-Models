@@ -11,7 +11,6 @@ We will continue to update this list with the latest resources. If you find any 
 
 ![Framework of AnomalyGFM](framework.png)
 
-
 ## Tutorial
 
 📢 We are delighted to share that we have successfully hosted two <strong>tutorials</strong> titled 

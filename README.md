@@ -268,9 +268,6 @@ We will continue to update this list with the latest resources. If you find any 
 - [Wang2026] ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes in *Arxiv*,2026. [\[paper\]](https://arxiv.org/pdf/2608.10699)[\[code\]]()
 
 
-
-
-
 ## Text 
 
 - [Yang2024]  AD-LLM: Benchmarking Large Language Models for Anomaly Detection  in *Arxiv*, 2024.  [\[paper\]](https://arxiv.org/abs/2412.11142)[\[code\]]()

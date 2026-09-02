@@ -241,6 +241,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Zhang2025] IA-GGAD: Zero-shot Generalist Graph Anomaly Detection via Invariant and Affinity Learning in  *NeurIPS*, 2025.  [\[paper\]](https://openreview.net/pdf?id=Cggdvyt8ik)[\[code\]]()
 
 - [Zheng2025] Breaking Semantic Barriers: A Zero-Shot Generalized Framework for Graph Anomaly Detection in  *WebConf*, 2026.  [\[paper\]](https://dl.acm.org/doi/10.1145/3746027.3755173)[\[code\]]()
+  
+- [Yan2026] MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning in *ICML*, 2026. [\[paper\]](https://openreview.net/forum?id=yBcY0bY45t&noteId=TpmWdQ9IhG)[\[code\]](https://github.com/Junyi-Yan/MV-FGAD)
 
 - [Liu2026] Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection in *ICLR*,2026.   [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
 

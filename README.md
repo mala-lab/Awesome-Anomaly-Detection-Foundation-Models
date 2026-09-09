@@ -246,7 +246,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Liu2026] Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection in *ICLR*,2026.   [\[paper\]](https://arxiv.org/abs/2504.14250)[\[code\]]()
 
-- [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
+- [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts in *ICDM*,2026.   [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]](https://github.com/zhaoxinyu2002/GAD-MoRE)
 
 - [Liu2026] Tabular Foundation Models are Strong Graph Anomaly Detectors  in *WebConf*,2026.   [\[paper\]](https://arxiv.org/abs/2601.17301)[\[code\]]()
 
@@ -257,8 +257,6 @@ We will continue to update this list with the latest resources. If you find any 
 - [Zhang2026] TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2603.09349)[\[code\]]()
 
 - [Zheng2026] OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection  in *ICLR*,2026.   [\[paper\]](https://arxiv.org/abs/2601.19102)[\[code\]](https://github.com/zhenglecheng/ICLR-2026-OWLEYE)
- 
-- [Zhao2026] Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts  in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.06859)[\[code\]]()
 
 - [Jiang2026]  Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts in *Arxiv*,2026.   [\[paper\]](https://arxiv.org/abs/2602.11622)[\[code\]]()
 

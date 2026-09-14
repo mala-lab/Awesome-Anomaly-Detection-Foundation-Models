@@ -337,6 +337,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 - [Ren2025] Foundation Models for Anomaly Detection: Vision and Challenges in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.06911)[\[code\]]()
 
+- [Zhao2025] A Survey of Cross-domain Graph Learning: Progress and Future Directions  in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2503.11086)[\[code\]]()
+
 - [Su2025] Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review   in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2402.10350)[\[code\]]()
 
 - [Xu2025] Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey  in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2409.01980)[\[code\]]()

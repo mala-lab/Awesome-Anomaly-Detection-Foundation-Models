@@ -335,6 +335,8 @@ We will continue to update this list with the latest resources. If you find any 
 
 ## Related Survey
 
+- [Su2026]  A Survey on Foundation Model-Driven Video Anomaly Understanding in *PR*, 2026.  [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326018546)[\[code\]]()
+
 - [Ren2025] Foundation Models for Anomaly Detection: Vision and Challenges in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/abs/2502.06911)[\[code\]]()
 
 - [Zhao2025] A Survey of Cross-domain Graph Learning: Progress and Future Directions  in *Arxiv*, 2025.  [\[paper\]](https://arxiv.org/pdf/2503.11086)[\[code\]]()

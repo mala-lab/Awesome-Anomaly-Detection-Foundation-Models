@@ -66,6 +66,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Li2025] One-for-More: Continual Diffusion Model for Anomaly DetectionOne-for-More: Continual Diffusion Model for Anomaly Detection   in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2502.19848)[\[code\]](https://github.com/FuNz-0/One-for-More)
 
 -  [Zeng2025]  Towards Efficient and General-Purpose Few-Shot Misclassification Detection for Vision-Language Models in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2503.20492)[\[code\]]()
+
+- [Gong2026] DECENT: Distribution-aware Prototypical Calibration with Fine-grained Voting for VLM Misclassification Detection in *EMNLP*, 2026. [\[paper\]](https://aclanthology.org/2026.emnlp-main.1665/)
   
 -  [Luo2025]  Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection in *CVPR*, 2025. [\[paper\]](https://arxiv.org/pdf/2503.02424)[\[code\]]()
 
